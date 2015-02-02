@@ -13,6 +13,16 @@
 		0A5BE7861A5B295500CA5062 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A5BE7851A5B295500CA5062 /* Images.xcassets */; };
 		0A5BE7891A5B295500CA5062 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A5BE7871A5B295500CA5062 /* LaunchScreen.xib */; };
 		0A5BE7951A5B295500CA5062 /* Tic_Tac_ToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A5BE7941A5B295500CA5062 /* Tic_Tac_ToeTests.swift */; };
+		0A5BE7BA1A5B29F700CA5062 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5BE7B11A5B29F700CA5062 /* Icon-72.png */; };
+		0A5BE7BB1A5B29F700CA5062 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5BE7B21A5B29F700CA5062 /* Icon.png */; };
+		0A5BE7BC1A5B29F700CA5062 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5BE7B31A5B29F700CA5062 /* Icon@2x.png */; };
+		0A5BE7BD1A5B29F700CA5062 /* iPad_board.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5BE7B41A5B29F700CA5062 /* iPad_board.png */; };
+		0A5BE7BE1A5B29F700CA5062 /* iPad_O.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5BE7B51A5B29F700CA5062 /* iPad_O.png */; };
+		0A5BE7BF1A5B29F700CA5062 /* iPad_X.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5BE7B61A5B29F700CA5062 /* iPad_X.png */; };
+		0A5BE7C01A5B29F700CA5062 /* iPhone_board.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5BE7B71A5B29F700CA5062 /* iPhone_board.png */; };
+		0A5BE7C11A5B29F700CA5062 /* iPhone_O.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5BE7B81A5B29F700CA5062 /* iPhone_O.png */; };
+		0A5BE7C21A5B29F700CA5062 /* iPhone_X.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5BE7B91A5B29F700CA5062 /* iPhone_X.png */; };
+		61AC43C31A6EE67A00D1B0F4 /* TicTacToeGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 61AC43C21A6EE67A00D1B0F4 /* TicTacToeGame.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +46,18 @@
 		0A5BE78E1A5B295500CA5062 /* Tic-Tac-ToeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tic-Tac-ToeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A5BE7931A5B295500CA5062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0A5BE7941A5B295500CA5062 /* Tic_Tac_ToeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tic_Tac_ToeTests.swift; sourceTree = "<group>"; };
+		0A5BE7B11A5B29F700CA5062 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		0A5BE7B21A5B29F700CA5062 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		0A5BE7B31A5B29F700CA5062 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		0A5BE7B41A5B29F700CA5062 /* iPad_board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPad_board.png; sourceTree = "<group>"; };
+		0A5BE7B51A5B29F700CA5062 /* iPad_O.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPad_O.png; sourceTree = "<group>"; };
+		0A5BE7B61A5B29F700CA5062 /* iPad_X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPad_X.png; sourceTree = "<group>"; };
+		0A5BE7B71A5B29F700CA5062 /* iPhone_board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhone_board.png; sourceTree = "<group>"; };
+		0A5BE7B81A5B29F700CA5062 /* iPhone_O.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhone_O.png; sourceTree = "<group>"; };
+		0A5BE7B91A5B29F700CA5062 /* iPhone_X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhone_X.png; sourceTree = "<group>"; };
+		61AC43C01A6EE67900D1B0F4 /* Tic-Tac-Toe-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tic-Tac-Toe-Bridging-Header.h"; sourceTree = "<group>"; };
+		61AC43C11A6EE67A00D1B0F4 /* TicTacToeGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TicTacToeGame.h; sourceTree = "<group>"; };
+		61AC43C21A6EE67A00D1B0F4 /* TicTacToeGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TicTacToeGame.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +104,10 @@
 				0A5BE7821A5B295500CA5062 /* Main.storyboard */,
 				0A5BE7851A5B295500CA5062 /* Images.xcassets */,
 				0A5BE7871A5B295500CA5062 /* LaunchScreen.xib */,
+				61AC43C11A6EE67A00D1B0F4 /* TicTacToeGame.h */,
+				61AC43C21A6EE67A00D1B0F4 /* TicTacToeGame.m */,
 				0A5BE77C1A5B295500CA5062 /* Supporting Files */,
+				61AC43C01A6EE67900D1B0F4 /* Tic-Tac-Toe-Bridging-Header.h */,
 			);
 			path = "Tic-Tac-Toe";
 			sourceTree = "<group>";
@@ -90,6 +115,15 @@
 		0A5BE77C1A5B295500CA5062 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0A5BE7B11A5B29F700CA5062 /* Icon-72.png */,
+				0A5BE7B21A5B29F700CA5062 /* Icon.png */,
+				0A5BE7B31A5B29F700CA5062 /* Icon@2x.png */,
+				0A5BE7B41A5B29F700CA5062 /* iPad_board.png */,
+				0A5BE7B51A5B29F700CA5062 /* iPad_O.png */,
+				0A5BE7B61A5B29F700CA5062 /* iPad_X.png */,
+				0A5BE7B71A5B29F700CA5062 /* iPhone_board.png */,
+				0A5BE7B81A5B29F700CA5062 /* iPhone_O.png */,
+				0A5BE7B91A5B29F700CA5062 /* iPhone_X.png */,
 				0A5BE77D1A5B295500CA5062 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,8 +227,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A5BE7841A5B295500CA5062 /* Main.storyboard in Resources */,
+				0A5BE7BC1A5B29F700CA5062 /* Icon@2x.png in Resources */,
+				0A5BE7C01A5B29F700CA5062 /* iPhone_board.png in Resources */,
+				0A5BE7BD1A5B29F700CA5062 /* iPad_board.png in Resources */,
+				0A5BE7BE1A5B29F700CA5062 /* iPad_O.png in Resources */,
 				0A5BE7891A5B295500CA5062 /* LaunchScreen.xib in Resources */,
+				0A5BE7BA1A5B29F700CA5062 /* Icon-72.png in Resources */,
 				0A5BE7861A5B295500CA5062 /* Images.xcassets in Resources */,
+				0A5BE7C11A5B29F700CA5062 /* iPhone_O.png in Resources */,
+				0A5BE7BB1A5B29F700CA5062 /* Icon.png in Resources */,
+				0A5BE7BF1A5B29F700CA5062 /* iPad_X.png in Resources */,
+				0A5BE7C21A5B29F700CA5062 /* iPhone_X.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,6 +255,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61AC43C31A6EE67A00D1B0F4 /* TicTacToeGame.m in Sources */,
 				0A5BE7811A5B295500CA5062 /* ViewController.swift in Sources */,
 				0A5BE77F1A5B295500CA5062 /* AppDelegate.swift in Sources */,
 			);
@@ -338,9 +382,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "Tic-Tac-Toe/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Tic-Tac-Toe/Tic-Tac-Toe-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -348,9 +396,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "Tic-Tac-Toe/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Tic-Tac-Toe/Tic-Tac-Toe-Bridging-Header.h";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -407,6 +458,7 @@
 				0A5BE79A1A5B295500CA5062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0A5BE79B1A5B295500CA5062 /* Build configuration list for PBXNativeTarget "Tic-Tac-ToeTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +467,7 @@
 				0A5BE79D1A5B295500CA5062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
